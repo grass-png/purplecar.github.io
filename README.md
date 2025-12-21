@@ -1,3 +1,19 @@
+<head>
+<style>
+body {
+  background-image: url('https://pics.freeartbackgrounds.com/midle/Green_Grass_Background_Texture-682.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+div.a {
+  border: 1px solid red;
+  outline: 2px dashed blue;
+}
+</style>
+</head>
+
+
 # Hello bro
 Wall's shit
 <img src="https://lh3.googleusercontent.com/rd-saves/AA8Ys26JhzAyBTwSMgWA1tlmEEoK649zH40iGgw0ab_mh7uCG81M-JJ8XgWIi1eKchAoyNEIAMunX8Le79xbSpXGZga4foY7ypXpTfU-1Bedz65kZSK7TGwYDCnB2JoSSkzADSYkOBHsFn6MItTg-FdYw7W8dCOzU91iNKIq1OBOPvz0EnzQiXiMWbzDajK-lyXCXXjRe5_1EA5osIwyWOBt9-pIo1A2L7q_B9kgp-PnNbAz6ta7ShU_Es6oE29Mvzv3K8HJpLteIrOm6guRbBlXgbXEosZS4asy5Rbkci_lpk7nfn6RAynzeySOcL645q7poYxbOzPqo8hBi1jaf2wpXyRiBaskk8OSrUVUllMrVma7d71Ns9_XwalhlRUriyLOoIC4XU1UxHkCvKFunbqLXI-TpTQJusSl7dIMZ4cnAVuQCh_5_klKBM2Z9zuoESFE6FgjuNAOpeWNvgbl8b5cVBElgkS3Pzs9BPmg93y4VxHRxk9F9hofJlifRGZldM0TuQ8X80SDDiS3lr1RDuqtJV1UrdjwB2Vgfm4kskqG1PX4QjgsRsCUl5Cjo0m9cK5AFDTTAJvaUzJQjI7dLhr7asHUIUn9Wzt5KqykGQJOePpH7atYuUV51IIAWLxw7FX8EDvp1N_CpIpc5ryqHzYFs9EgHZ5mYNRV-0715hog21igr4ZSgDQ8tNA1jg2GPNtjP-r2TEk97GPQKZ56ozomByOCmEz3nS2y00_EWx5BfP_zvWrPi2FcoQX1xRGD4qpk6-7wgaW0Y-NxIaU1nB-YP9yN1UMO5bzZZiujLCdm7suBSCLCBsG69eoaxrDlx455B0odBMPYiR8uBIfi7uZ8gtWYM4uHwuuk9l4QBOZUcKdpQ6qTKyOUTyj8IQRcjSQ3bVPlvNP69tmTqq1f3GOPiUDrTI9fdQf-4iGYxyvUk_Ns7rxksf1S-8QriRYzzKeBicefJ8WbKQZL2I6gWNAEqcN4dJdMVpZ2aPcI87PIpnlCrRB9qjQbA14Ub-be_-NSwraZCcVaR_ja3PCtjDIj1H1OOZeFKkBUbfaskjMAOoFXd4UzHo-LwZwhULMgljfy-1w-ksUuwhwh6DTPvsgWvUi-8p7euEyY0-Q-x9BGbHdqIsqiFHYDCZnLpj4-661fGpZFxQbT8oRRyJTC6DyWvwHq7siyugjDMYoht4ammr6l_HXVnlZ5G8F8M6A=s539-w539-h435-n-k?authuser=0&source=sh%2Fx%2Fsaves%2Fuv%2Fm5%2F4&kgs=87dccccd78f12b9b">
