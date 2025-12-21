@@ -1,7 +1,7 @@
 <head>
 <style>
 body {
-  background-image: url('https://pics.freeartbackgrounds.com/midle/Green_Grass_Background_Texture-682.jpg');
+  background-image: url('https://images.pexels.com/photos/53594/blue-clouds-day-fluffy-53594.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
