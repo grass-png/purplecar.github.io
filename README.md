@@ -40,3 +40,7 @@ Skibidi was hanging out near the trash, located in the aleywleyway, when it hear
   <source src="WHY DOES IT ALL SOUND THE SAMEE.wav_version2orSum.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
+<audio controls>
+  <source src="firetruck stuck in a haunted frickin house.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
